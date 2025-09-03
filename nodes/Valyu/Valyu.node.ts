@@ -85,7 +85,7 @@ export class Valyu implements INodeType {
 				displayOptions: { show: { operation: ['deepsearch'] } },
 			},
 			{
-				displayName: 'Included Sources (comma/newline separated)',
+				displayName: 'Included Sources (Comma/Newline Separated)',
 				name: 'includedSourcesRaw',
 				type: 'string',
 				default: '',
@@ -93,7 +93,7 @@ export class Valyu implements INodeType {
 				displayOptions: { show: { operation: ['deepsearch'] } },
 			},
 			{
-				displayName: 'Excluded Sources (comma/newline separated)',
+				displayName: 'Excluded Sources (Comma/Newline Separated)',
 				name: 'excludedSourcesRaw',
 				type: 'string',
 				default: '',
@@ -150,7 +150,7 @@ export class Valyu implements INodeType {
 
 			// ---------- Contents ----------
 			{
-				displayName: 'URLs (comma/newline separated, up to 10)',
+				displayName: 'URLs (Comma/Newline Separated, Up to 10)',
 				name: 'urlsRaw',
 				type: 'string',
 				default: '',
@@ -176,9 +176,9 @@ export class Valyu implements INodeType {
 				name: 'summaryMode',
 				type: 'options',
 				options: [
-					{ name: 'No AI (false)', value: 'false' },
-					{ name: 'Basic Summary (true)', value: 'true' },
-					{ name: 'Custom Prompt (string)', value: 'string' },
+					{ name: 'No AI (False)', value: 'false' },
+					{ name: 'Basic Summary (True)', value: 'true' },
+					{ name: 'Custom Prompt (String)', value: 'string' },
 					{ name: 'Structured (JSON Schema)', value: 'schema' },
 				],
 				default: 'false',

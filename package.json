@@ -33,7 +33,7 @@
   "n8n": {
     "n8nNodesApiVersion": 1,
     "credentials": [
-      "dist/credentials/ValyuAPI.credentials.js"
+      "dist/credentials/ValyuApi.credentials.js"
     ],
     "nodes": [
       "dist/nodes/Valyu/Valyu.node.js"

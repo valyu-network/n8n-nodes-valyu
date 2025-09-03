@@ -3,6 +3,7 @@ import { IAuthenticateGeneric, ICredentialType, INodeProperties } from 'n8n-work
 export class ValyuApi implements ICredentialType {
 	name = 'valyuApi';
 	displayName = 'Valyu API';
+	documentationUrl = 'https://docs.valyu.network';
 	// (community rule: name should end with -Api)
 	// https://github.com/ivov/eslint-plugin-n8n-nodes-base
 	// docs: https://docs.n8n.io/integrations/creating-nodes/overview/
