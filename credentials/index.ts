@@ -1,1 +1,1 @@
-export * from './ValyuAPI.credentials';
+export * from './ValyuApi.credentials';
