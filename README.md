@@ -1,4 +1,4 @@
-![Banner image](https://raw.githubusercontent.com/ValyuNetwork/n8n-nodes-valyu/main/n8n-valyu.png)
+![Banner image](https://raw.githubusercontent.com/valyu-network/n8n-nodes-valyu/main/n8n-valyu.png)
 
 # n8n-nodes-valyu
 
