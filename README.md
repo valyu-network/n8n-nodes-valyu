@@ -4,7 +4,7 @@
 
 This is an n8n community node. It lets you use Valyu in your n8n workflows.
 
-Valyu is the world's first purpose-built search API for AI agents, providing access to structured financial data, academic research, real-time web content, and proprietary datasets through a unified DeepSearch API.
+Valyu is the world's first purpose-built search API for AI agents, providing access to web content, structured financial data, academic research, and proprietary datasets through a unified search API.
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
